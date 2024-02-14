@@ -1,3 +1,3 @@
-# NextJS 13 - Routing demo
+# NextJS - Routing demo
 
-The project purpose is to demonstrate the new NextJS 13 routing system.
+The project purpose is to demonstrate the new NextJS routing system.
